@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Coin</string>
+    <string name="enter_your_mail_address">Enter your mail address</string>
+    <string name="already_click_sign_in">Already, click SIGN IN</string>
+</resources>
